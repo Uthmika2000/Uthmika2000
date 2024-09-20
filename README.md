@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Laravel, AWS<br>🎯 Goals: AWS Certified Machine Learning , Red Hat Certified System Administrator (RHCSA)<br>🎲 Fun fact:  I am a Mentor.</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning AWS, ELK Stack<br>🎯 Goals: AWS Certified Machine Learning , Red Hat Certified System Administrator (RHCSA)<br>🎲 Fun fact:  I am a Mentor.</p>
 
 ###
 
